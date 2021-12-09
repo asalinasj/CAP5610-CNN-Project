@@ -16,6 +16,7 @@
 - Dataset: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000 
 - pd.read_csv() paths will be different on your machine 
 - original file paths were using Google Colab, will need to be changed by grader to view results
+- Due to file size limitations on Github, we could not upload certain data sets including the models
 
 ### Files/Folders
 - data/
