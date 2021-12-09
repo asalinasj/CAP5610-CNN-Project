@@ -1,6 +1,11 @@
 # CAP5610-CNN-Project
 ## CNN Skin Cancer Image Classification Analysis
 
+### Project Details
+- Authors
+    - Andres Salinas
+    - Natalia Valencia
+
 ### Technologies Used
 - Google Colab GPU
 - TensorFlow
@@ -17,8 +22,9 @@
     - HAM10000_images_part_1
     - HAM10000_images_part_2
     - base_dir/
+    - ImageArrays/
     - csv files
-- models/
+- Models/
     - h5 files
 - ProjectNotebook_AlexNet.ipynb
 - ProjectNotebook_LeNet.ipynb
